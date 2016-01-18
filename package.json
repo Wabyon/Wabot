@@ -13,7 +13,6 @@
     "hubot-doyoubi": "git://github.com/chiguniiita/hubot-doyoubi.git",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
-    "hubot-hello-bye": "git://github.com/chiguniiita/hubot-hello-bye.git",
     "hubot-help": "^0.1.2",
     "hubot-heroku-keepalive": "^1.0.0",
     "hubot-lgtm": "git://github.com/chiguniiita/hubot-lgtm.git",
